@@ -13,7 +13,7 @@ class home
         }
     }
 }
-
+//https://github.com/thephpleague/oauth2-github
 home::detect();
 
 ?>
